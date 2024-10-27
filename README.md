@@ -1,6 +1,7 @@
 ### Ahoi there 👋
 - 🔭 I’m currently working on a social media network app called, wait for it, [iMob](https://imob-app.herokuapp.com)
-- 📫 Contact info and Resume Portfolio found on my website [Bomi](https://www.bomigaruba.tech)<br />Professional Tools and Languages:<br />
+- 📫 Contact info and Resume Portfolio found on my website [Bomi](https://www.bomigaruba.tech)<br />
+- Professional Tools and Languages:<br />
 
 ![PythonProficient](https://camo.githubusercontent.com/a8b9bf9135046e25e60b9234c4f55e9573e7dffe0d663bf61bd4255683d8ace7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d66666464353426636f6c6f723d333637304130)
 ![JavaScriptProficient](https://camo.githubusercontent.com/5d6fb567480bcbefa12ae49793a24f694c8c978030eacfb5889bd0ebd75cada5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d463744463145)
@@ -12,3 +13,6 @@
 ![SQLProficient](https://camo.githubusercontent.com/9373329601c0c358b6250fac2dcf1d8ea9aeb90580a9d674f8d40b63c19a9219/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d53514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d73716c266c6f676f436f6c6f723d776869746526636f6c6f723d434332393237)
 ![LinuxProficient](https://camo.githubusercontent.com/6d4233bec43bcd3a24a07bb342158d84a2e3d244ea886b160884361724d1a2b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b26636f6c6f723d464343363234)
 ![CICDProficient](https://camo.githubusercontent.com/f0b2fc61fae007fa9bd3b09060a61a89569b8550da6b3fc9692f1ab769a00bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434925324643442d4a656e6b696e732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d776869746526636f6c6f723d443234393339)
+<br />
+![PytorchProficient](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWSAIProficient](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
