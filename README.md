@@ -1,5 +1,4 @@
 ###  👋 Bomi Garuba - EE Graduate @ Carleton U Engr
--  I have been accepted into the Master of Applied Science program at Carleton University specializing in Electrical and Computer Engineering - I begin my graduate studies in January 2025  , [iMob](https://imob-app.herokuapp.com)
 -  🔭Take a look at my website: [https://www.bomigaruba.tech](https://www.bomigaruba.tech)<br />
 -  📫 Let's connect: [bomigaruba@cmail.carleton.ca](mailto:bomigaruba@cmail.carleton.ca), [garuba.bomi@hotmail.com](mailto:garuba.bomi@hotmail.com)
 - Professional Tools and Languages:<br />
