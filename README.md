@@ -1,18 +1,45 @@
-###  👋 Bomi Garuba - EE Graduate @ Carleton U Engr
--  🔭Take a look at my website: [https://www.bomigaruba.tech](https://www.bomigaruba.tech)<br />
--  📫 Let's connect: [bomigaruba@cmail.carleton.ca](mailto:bomigaruba@cmail.carleton.ca), [garuba.bomi@hotmail.com](mailto:garuba.bomi@hotmail.com)
-- Professional Tools and Languages:<br />
+###  👋 Bomi Garuba - EE Graduate @ Carleton U Engr 
 
-![PythonProficient](https://camo.githubusercontent.com/a8b9bf9135046e25e60b9234c4f55e9573e7dffe0d663bf61bd4255683d8ace7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d66666464353426636f6c6f723d333637304130)
-![JavaScriptProficient](https://camo.githubusercontent.com/5d6fb567480bcbefa12ae49793a24f694c8c978030eacfb5889bd0ebd75cada5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d463744463145)
-![HTML_CSSProficient](https://camo.githubusercontent.com/593a34c3a3e78b3e330819e188d071de5addceeb9182134f8a94078d4b8e6e20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d48544d4c2f4353532d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d776869746526636f6c6f723d453334463236)
-![SQLProficient](https://camo.githubusercontent.com/9373329601c0c358b6250fac2dcf1d8ea9aeb90580a9d674f8d40b63c19a9219/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d53514c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d73716c266c6f676f436f6c6f723d776869746526636f6c6f723d434332393237)<br />
-![ReactProficient](https://camo.githubusercontent.com/7da07ee065f0b37eea7b437c61b382fc8f8ac036ca978d84f061b62eca2e4080/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4672616d65776f726b2d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d776869746526636f6c6f723d253233363144414642)
-![RESTAPIProficient](https://camo.githubusercontent.com/5f41cc7f1e88918a1373fff2ef01eea42e0ef65bf0513021aae7a06392729488/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d524553542d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d72657374266c6f676f436f6c6f723d776869746526636f6c6f723d444430303331)
-![MongoDBProficient](https://camo.githubusercontent.com/cc1e596b3c4215b527a6f4d771994d1e5511430e3db00d162bb95b43634e34cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f44617461626173652d4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d776869746526636f6c6f723d343741323438)
-![HerokuProficient](https://camo.githubusercontent.com/3876fea8ac43abdf9ee3d4b2c5483433e9e561eff6b27a544ba3e622cd0118b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506161532d4865726f6b752d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6865726f6b75266c6f676f436f6c6f723d776869746526636f6c6f723d253233343330303938)<br />
-![LinuxProficient](https://camo.githubusercontent.com/6d4233bec43bcd3a24a07bb342158d84a2e3d244ea886b160884361724d1a2b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b26636f6c6f723d464343363234)
-![CICDProficient](https://camo.githubusercontent.com/f0b2fc61fae007fa9bd3b09060a61a89569b8550da6b3fc9692f1ab769a00bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f434925324643442d4a656e6b696e732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d776869746526636f6c6f723d443234393339)
+
+### SKILLS 🔗
+### Languages:<br />
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+### Frameworks:<br />
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)<br />
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+### Cloud/IT Technologies:<br />
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#) <br />
+### Tools:<br />
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+
+
+### LINKS 🔗
+-  <p href="https://linkedin.com/in/bomi-garuba" target="_blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" /></p>
+-  🔭 [https://www.bomigaruba.tech](https://www.bomigaruba.tech)<br />
+-  📫 Let's connect: [bomigaruba@cmail.carleton.ca](mailto:bomigaruba@cmail.carleton.ca), [garuba.bomi@hotmail.com](mailto:garuba.bomi@hotmail.com)
+
 <br />
-![PytorchProficient](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWSAIProficient](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bomigaruba&show_icons=true&locale=en&layout=compact&theme=dark" alt="Bomigaruba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bomigaruba&show_icons=true&locale=en&theme=dark" alt="Bomigaruba" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bomigaruba&theme=dark" alt="Bomigaruba" /></p>
